@@ -28,7 +28,6 @@ header {
     background-color: #3a7d44;
     color: white;
 
-    z-index: 10;
 }
 
 header h2 {
@@ -83,25 +82,25 @@ main {
     padding-top: 25px;
 }
 
-.button1,
-.button2 {
-    width: 150px;
-    height: 30px;
-
-    border-radius: 100px;
-    cursor: pointer;
-
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.186);
-}
 
 .button1 {
     background-color: #4caf50;
     border: 1px solid #409043;
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.292);
+    cursor: pointer;
 }
 
 .button2 {
     background-color: #e8913a;
     border: 1px solid #cc7f31;
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.292);
+    cursor: pointer;
 }
 
 
