@@ -5,7 +5,7 @@ A simple and colorful Grow a Garden fan website built with HTML and CSS.
 
 ## preview
 
-![Grow a Garden Website](assets/screenshot.png)
+(assets/screenshot.png)
 <img src="assets/Screenshot.png" width="400">
 
 ## Live Demo
