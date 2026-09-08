@@ -2,9 +2,17 @@
 
 A simple and colorful Grow a Garden fan website built with HTML and CSS.
 
+
+## preview
+
+![Grow a Garden Website](assets/screenshot.png)
+<img src="assets/screenshot.png" width="400">
+
 ## Live Demo
 
 [View Website](https://sadradev89.github.io/grow-a-garden-website-html-css/)
+
+
 
 ## Features
 
