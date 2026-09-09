@@ -212,3 +212,72 @@ footer {
     text-align: center;
 }
 
+
+/* Responsive - Mobile */
+@media (max-width: 600px) {
+
+    header {
+        padding: 0 15px;
+    }
+
+    header h2 {
+        font-size: 18px;
+    }
+
+    ul {
+        gap: 10px;
+        padding-right: 0;
+        font-size: 14px;
+    }
+
+
+    main {
+        padding-top: 60px;
+    }
+
+
+    .grow {
+        height: auto;
+        min-height: 300px;
+        padding-bottom: 20px;
+    }
+
+    .grow h1 {
+        font-size: 28px;
+        margin-top: 75px;
+    }
+
+
+    .box {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .span1 {
+        box-sizing: border-box;
+        width: 90%;
+        max-width: 250px;
+    }
+
+
+    .plants {
+        flex-wrap: wrap;
+        gap: 15px;
+        font-size: 18px;
+        padding: 0 15px;
+    }
+
+
+    .animals {
+        flex-wrap: wrap;
+        gap: 15px;
+        font-size: 18px;
+        padding: 0 15px;
+    }
+
+
+    footer {
+        margin-bottom: 0;
+    }
+}
